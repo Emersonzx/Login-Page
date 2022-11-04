@@ -9,10 +9,11 @@
 }
 
 body{
+   
 background: linear-gradient(50deg, #1d0975, #330902 ) ;
 background-repeat: no-repeat;
 min-height:100vh;
-min-width: 100vh;
+
 display: flex;
 align-items: center;
 justify-content: center;
@@ -134,3 +135,7 @@ margin-top: 1rem;
 .footer .social-field.instagram{
     background: linear-gradient(to right, #8d052e, #4e2307);
 }
+
+ 
+
+    
